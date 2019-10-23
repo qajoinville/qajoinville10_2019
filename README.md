@@ -1,4 +1,4 @@
-Requisitos para o workshop:
+Requisitos para o workshop 10/2019 (Mercos):
 
 1 - IDE Eclipse instalado.
 
