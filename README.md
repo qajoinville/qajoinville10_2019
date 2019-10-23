@@ -1,4 +1,5 @@
-Requisitos para o workshop 10/2019 (Mercos):
+REQUISITOS PARA WORSHOP 10/2019 (MERCOS)
+
 
 1 - IDE Eclipse instalado.
 
