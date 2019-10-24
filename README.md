@@ -3,7 +3,7 @@
   
 
 
-1 - IDE Eclipse instalado.  
+**1 - IDE Eclipse instalado.**
 
 Tutorial 1 (Português)  
 https://www.eclipse.org/downloads/packages/installer  
@@ -13,7 +13,7 @@ Tutorial 2 (Inglês)
 https://blog.dankicode.com/como-instalar-eclipse/  
 
 
-2 - Baixar o driver do navegador.    
+**2 - Baixar o driver do navegador.**    
 
 
 
@@ -24,7 +24,7 @@ Baixar o driver da versão do seu navegador.
 https://github.com/mozilla/geckodriver/releases    
 
 
-3 - Links de ajuda:  
+**3 - Links de ajuda:**  
 
 
 Documentação do selenium:  
