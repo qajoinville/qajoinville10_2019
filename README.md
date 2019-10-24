@@ -12,7 +12,8 @@ https://blog.dankicode.com/como-instalar-eclipse/
 
 2 - Baixar o driver do navegador.
 
-Baixar o driver da versão do seu navegador.
+Baixar o driver da versão do seu navegador.  
+
 https://chromedriver.chromium.org/downloads
 
 Baixar o driver da versão do seu navegador.
