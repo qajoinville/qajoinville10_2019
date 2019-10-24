@@ -1,5 +1,6 @@
 REQUISITOS PARA WORKSHOP 10/2019 (MERCOS)  
-
+  
+  
 
 
 1 - IDE Eclipse instalado.  
