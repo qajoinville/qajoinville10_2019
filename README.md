@@ -3,21 +3,22 @@ REQUISITOS PARA WORKSHOP 10/2019 (MERCOS)
 
 1 - IDE Eclipse instalado.
 
-Tutorial 1 (Português)
-https://www.eclipse.org/downloads/packages/installer
-
-Tutorial 2 (Inglês)
-https://blog.dankicode.com/como-instalar-eclipse/
+Tutorial 1 (Português)  
+https://www.eclipse.org/downloads/packages/installer  
 
 
-2 - Baixar o driver do navegador.
+Tutorial 2 (Inglês)  
+https://blog.dankicode.com/como-instalar-eclipse/  
+
+
+2 - Baixar o driver do navegador.  
+
 
 Baixar o driver da versão do seu navegador.  
+https://chromedriver.chromium.org/downloads  
 
-https://chromedriver.chromium.org/downloads
-
-Baixar o driver da versão do seu navegador.
-https://github.com/mozilla/geckodriver/releases
+Baixar o driver da versão do seu navegador.  
+https://github.com/mozilla/geckodriver/releases  
 
 3 - Links de ajuda:
 
