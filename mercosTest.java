@@ -31,7 +31,7 @@ public class mercosTest {
 		driver.findElement(By.name("password")).sendKeys("knight8497"); //Pedimos ao driver para encontrar através do name um objeto específico e enviar para ele uma sequência de caracteres.
 		driver.findElement(By.xpath("//*[@class='btn btn-primary btn-rounded']")).click(); //Pedimos ao driver para encontrar através do xpath um objeto específico e clicar nele.
 		WebDriverWait wait = new WebDriverWait(driver, 10); // Definimos uma espera de até 10 segundos. 
-		wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@class='main-info']"))); //Definimos uma consição que deverá ser atendida até o término da espera [o elemento deve ser clicável].
+		wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@class='main-info']"))); //Definimos uma condição que deverá ser atendida até o término da espera [o elemento deve ser clicável].
 	}
 
 }
